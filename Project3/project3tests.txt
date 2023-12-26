@@ -1,0 +1,227 @@
+Python 3.11.3 (tags/v3.11.3:f3909b8, Apr  4 2023, 23:49:59) [MSC v.1934 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+========= RESTART: C:\Users\megha\OneDrive\Documents\project3script.py =========
+Enter Name: Rex
+Enter Number of Days Stayed: 5
+Enter Room Number: 105
+
+		Internet Access Usage
+		---------------------
+		1--WiFi Connection
+		2--Wired Connection
+		3--No Internet Used
+	Enter Choice 1, 2, or 3: 1
+
+		TV Usage
+		---------------------
+		1--Cable Channels
+		2--Basic Channels
+		3--No TV Used
+	Enter Choice 1, 2, or 3: 1
+
+
+			PCCC Palace Hotel
+
+Rex's Billing Statement			Invoice#: 795
+
+	Number of Days in Hotel: 5	in a Single Room
+
+	Room Charges				$1,125.00    
+
+	Internet Charges	Wifi		$49.75       
+
+	Television Charges	Cable		$49.75       
+
+	Total Charges				$1,224.50    
+
+	Local Taxes				$42.86       
+
+		Total Due		$1,267.36    
+
+
+	Thank you for visiting PCCC Palace Hotel!
+		Hope to see you again!
+
+
+Press Enter to Continue
+
+========= RESTART: C:\Users\megha\OneDrive\Documents\project3script.py =========
+Enter Name: Gabby
+Enter Number of Days Stayed: 3
+Enter Room Number: 116
+
+		Internet Access Usage
+		---------------------
+		1--WiFi Connection
+		2--Wired Connection
+		3--No Internet Used
+	Enter Choice 1, 2, or 3: 1
+
+		TV Usage
+		---------------------
+		1--Cable Channels
+		2--Basic Channels
+		3--No TV Used
+	Enter Choice 1, 2, or 3: 3
+
+
+			PCCC Palace Hotel
+
+Gabby's Billing Statement			Invoice#: 828
+
+	Number of Days in Hotel: 3	in a Family Room
+
+	Room Charges				$975.00      
+
+	Internet Charges	Wifi		$29.85       
+
+	Television Charges	None		$0.00        
+
+	Total Charges				$1,004.85    
+
+	Local Taxes				$35.17       
+
+		Total Due		$1,040.02    
+
+
+	Thank you for visiting PCCC Palace Hotel!
+		Hope to see you again!
+
+
+Press Enter to Continue
+
+========= RESTART: C:\Users\megha\OneDrive\Documents\project3script.py =========
+Enter Name: Abi
+Enter Number of Days Stayed: 8
+Enter Room Number: 127
+
+		Internet Access Usage
+		---------------------
+		1--WiFi Connection
+		2--Wired Connection
+		3--No Internet Used
+	Enter Choice 1, 2, or 3: 1
+
+		TV Usage
+		---------------------
+		1--Cable Channels
+		2--Basic Channels
+		3--No TV Used
+	Enter Choice 1, 2, or 3: 2
+
+
+			PCCC Palace Hotel
+
+Abi's Billing Statement			Invoice#: 897
+
+	Number of Days in Hotel: 8	in a Suite
+
+	Room Charges				$4,400.00    
+
+	Internet Charges	Wifi		$79.60       
+
+	Television Charges	Basic		$23.60       
+
+	Total Charges				$4,503.20    
+
+	Local Taxes				$157.61      
+
+		Total Due		$4,660.81    
+
+
+	Thank you for visiting PCCC Palace Hotel!
+		Hope to see you again!
+
+
+Press Enter to Continue
+
+========= RESTART: C:\Users\megha\OneDrive\Documents\project3script.py =========
+Enter Name: Colleen
+Enter Number of Days Stayed: 4
+Enter Room Number: 102
+
+		Internet Access Usage
+		---------------------
+		1--WiFi Connection
+		2--Wired Connection
+		3--No Internet Used
+	Enter Choice 1, 2, or 3: 2
+
+		TV Usage
+		---------------------
+		1--Cable Channels
+		2--Basic Channels
+		3--No TV Used
+	Enter Choice 1, 2, or 3: 1
+
+
+			PCCC Palace Hotel
+
+Colleen's Billing Statement			Invoice#: 402
+
+	Number of Days in Hotel: 4	in a Single Room
+
+	Room Charges				$900.00      
+
+	Internet Charges	Wired		$23.80       
+
+	Television Charges	Cable		$39.80       
+
+	Total Charges				$963.60      
+
+	Local Taxes				$33.73       
+
+		Total Due		$997.33      
+
+
+	Thank you for visiting PCCC Palace Hotel!
+		Hope to see you again!
+
+
+Press Enter to Continue
+
+========= RESTART: C:\Users\megha\OneDrive\Documents\project3script.py =========
+Enter Name: Lorraine
+Enter Number of Days Stayed: 4
+Enter Room Number: 111
+
+		Internet Access Usage
+		---------------------
+		1--WiFi Connection
+		2--Wired Connection
+		3--No Internet Used
+	Enter Choice 1, 2, or 3: 3
+
+		TV Usage
+		---------------------
+		1--Cable Channels
+		2--Basic Channels
+		3--No TV Used
+	Enter Choice 1, 2, or 3: 1
+
+
+			PCCC Palace Hotel
+
+Lorraine's Billing Statement			Invoice#: 255
+
+	Number of Days in Hotel: 4	in a Family Room
+
+	Room Charges				$1,300.00    
+
+	Internet Charges	None		$0.00        
+
+	Television Charges	Cable		$39.80       
+
+	Total Charges				$1,339.80    
+
+	Local Taxes				$46.89       
+
+		Total Due		$1,386.69    
+
+
+	Thank you for visiting PCCC Palace Hotel!
+		Hope to see you again!
+
+
+Press Enter to Continue

@@ -1,0 +1,9 @@
+1	Start
+2	input name
+3	input side
+4	calculate area=(3/2 * sqrt(3) * side **2)
+5	print "Hello (name)"
+6	print "The area of the hexagon with"
+7	print "Side = (side)"
+8	print "is = (area)"
+9	end

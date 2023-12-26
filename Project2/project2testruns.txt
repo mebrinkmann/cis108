@@ -1,0 +1,110 @@
+Python 3.11.2 (tags/v3.11.2:878ead1, Feb  7 2023, 16:38:35) [MSC v.1934 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+= RESTART: C:/Users/Meghan Brinkmann/OneDrive/Documents/School/Programming Fundamentals/Homework/Project2/project2script.py
+Student's Name: Sasha McDonald
+Student's ID#: 23045
+Number of Credits: 12.0
+
+
+		Passaic County Community College
+
+Name:  Sasha McDonald 		ID#:  23045 		Invoice #:  8606
+Number of Credits:  12.0 	Cost Per Credit: 	$ 177.00
+
+		Credit Charges: 		$2124.00   
+		General College Fees: 	$282.00    
+		Student Activity Fees: 	$34.80     
+		Athletic Fees: 		$79.20     
+		Technology Fees: 		$264.00    
+		Registration Fee: 	$50.00     
+
+	Total Charges for Semester: 	$2834.00   
+
+
+		Sasha McDonald, Enjoy Your Semester!
+
+
+
+Press Enter to Continue
+
+= RESTART: C:/Users/Meghan Brinkmann/OneDrive/Documents/School/Programming Fundamentals/Homework/Project2/project2script.py
+Student's Name: Yair Cosme
+Student's ID#: 34567
+Number of Credits: 12.0
+
+
+		Passaic County Community College
+
+Name:  Yair Cosme 		ID#:  34567 		Invoice #:  4286
+Number of Credits:  12.0 	Cost Per Credit: 	$ 177.00
+
+		Credit Charges: 		$2124.00   
+		General College Fees: 	$282.00    
+		Student Activity Fees: 	$34.80     
+		Athletic Fees: 		$79.20     
+		Technology Fees: 		$264.00    
+		Registration Fee: 	$50.00     
+
+	Total Charges for Semester: 	$2834.00   
+
+
+		Yair Cosme, Enjoy Your Semester!
+
+
+
+Press Enter to Continue
+
+= RESTART: C:/Users/Meghan Brinkmann/OneDrive/Documents/School/Programming Fundamentals/Homework/Project2/project2script.py
+Student's Name: Alexandra Paiva
+Student's ID#: 22345
+Number of Credits: 14.5
+
+
+		Passaic County Community College
+
+Name:  Alexandra Paiva 		ID#:  22345 		Invoice #:  7078
+Number of Credits:  14.5 	Cost Per Credit: 	$ 177.00
+
+		Credit Charges: 		$2566.50   
+		General College Fees: 	$340.75    
+		Student Activity Fees: 	$42.05     
+		Athletic Fees: 		$95.70     
+		Technology Fees: 		$319.00    
+		Registration Fee: 	$50.00     
+
+	Total Charges for Semester: 	$3414.00   
+
+
+		Alexandra Paiva, Enjoy Your Semester!
+
+
+
+Press Enter to Continue
+
+= RESTART: C:/Users/Meghan Brinkmann/OneDrive/Documents/School/Programming Fundamentals/Homework/Project2/project2script.py
+Student's Name: Kyle Torres
+Student's ID#: 11234
+Number of Credits: 10.0
+
+
+		Passaic County Community College
+
+Name:  Kyle Torres 		ID#:  11234 		Invoice #:  9011
+Number of Credits:  10.0 	Cost Per Credit: 	$ 177.00
+
+		Credit Charges: 		$1770.00   
+		General College Fees: 	$235.00    
+		Student Activity Fees: 	$29.00     
+		Athletic Fees: 		$66.00     
+		Technology Fees: 		$220.00    
+		Registration Fee: 	$50.00     
+
+	Total Charges for Semester: 	$2370.00   
+
+
+		Kyle Torres, Enjoy Your Semester!
+
+
+
+Press Enter to Continue

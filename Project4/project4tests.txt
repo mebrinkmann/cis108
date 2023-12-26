@@ -1,0 +1,71 @@
+Python 3.11.3 (tags/v3.11.3:f3909b8, Apr  4 2023, 23:49:59) [MSC v.1934 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+= RESTART: C:\Users\megha\OneDrive\Documents\School\Programming Fundamentals\Homework\Project4\project4.py
+Student's Name: ELLE
+Student's ID#: 23
+Number of Courses: 3
+Course ID: COL103
+Number of Credits for Course: 2
+Enter Grade for Course: A
+Course ID: EN101
+Number of Credits for Course: 3
+Enter Grade for Course: A
+Course ID: MA108
+Number of Credits for Course: 3
+Enter Grade for Course: B
+
+
+GPA Calculator
+Name: ELLE
+ID#: 23
+Total Credits: 8
+Total Points: 29
+GPA for the Semester: 3.62
+Press Enter to Continue
+
+= RESTART: C:\Users\megha\OneDrive\Documents\School\Programming Fundamentals\Homework\Project4\project4.py
+Student's Name: BOB
+Student's ID#: 45
+Number of Courses: 1
+Course ID: CIS106
+Number of Credits for Course: 1
+Enter Grade for Course: A
+
+
+GPA Calculator
+Name: BOB
+ID#: 45
+Total Credits: 1
+Total Points: 4
+GPA for the Semester: 4.0
+Press Enter to Continue
+
+= RESTART: C:\Users\megha\OneDrive\Documents\School\Programming Fundamentals\Homework\Project4\project4.py
+Student's Name: JOE
+Student's ID#: 68
+Number of Courses: 5
+Course ID: EN101
+Number of Credits for Course: 3
+Enter Grade for Course: A
+Course ID: MA108
+Number of Credits for Course: 3
+Enter Grade for Course: B
+Course ID: CIS107
+Number of Credits for Course: 3
+Enter Grade for Course: A
+Course ID: CIS108
+Number of Credits for Course: 3
+Enter Grade for Course: C
+Course ID: BU101
+Number of Credits for Course: 3
+Enter Grade for Course: A
+
+
+GPA Calculator
+Name: JOE
+ID#: 68
+Total Credits: 15
+Total Points: 51
+GPA for the Semester: 3.4
+Press Enter to Continue

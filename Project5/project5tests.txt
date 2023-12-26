@@ -1,0 +1,166 @@
+Python 3.11.3 (tags/v3.11.3:f3909b8, Apr  4 2023, 23:49:59) [MSC v.1934 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+= RESTART: C:\Users\megha\OneDrive\Documents\School\23SP\CIS108\Homework\Project5\project5.py
+Enter Name: Meg
+Enter Number of Days Stayed: 2
+Enter Room Number: 312
+Did you use the internet? : y
+
+		Internet Access Usage
+		---------------------
+		1--(W)iFi Connection
+		2--(w)ired Connection
+	Enter Choice: 2
+Did you watch television? : y
+
+		TV Usage
+		---------------------
+		1--(C)able Channels
+		2--(B)asic Channels
+	Enter Choice: 1
+
+
+			PCCC Palace Hotel
+
+Meg's Billing Statement			Invoice#: 844
+
+	Number of Days in Hotel: 2	in a Family Room
+
+	Room Charges				$650.00      
+
+	Internet Charges		Wired		$11.90       
+
+	Television Charges	Cable		$19.90       
+
+	Total Charges				$681.80      
+
+	Local Taxes					$23.86       
+
+		Total Due		$705.66      
+
+
+	Thank you for visiting PCCC Palace Hotel!
+		Hope to see you again!
+
+
+Press Enter to Continue
+= RESTART: C:\Users\megha\OneDrive\Documents\School\23SP\CIS108\Homework\Project5\project5.py
+Enter Name: Shellie
+Enter Number of Days Stayed: 4
+Enter Room Number: 301
+Did you use the internet? : y
+
+		Internet Access Usage
+		---------------------
+		1--(W)iFi Connection
+		2--(w)ired Connection
+	Enter Choice: 1
+Did you watch television? : n
+
+
+
+			PCCC Palace Hotel
+
+Shellie's Billing Statement			Invoice#: 984
+
+	Number of Days in Hotel: 4	in a Single Room
+
+	Room Charges				$900.00      
+
+	Internet Charges		Wifi		$39.80       
+
+	Television Charges	None		$0.00        
+
+	Total Charges				$939.80      
+
+	Local Taxes					$32.89       
+
+		Total Due		$972.69      
+
+
+	Thank you for visiting PCCC Palace Hotel!
+		Hope to see you again!
+
+
+Press Enter to Continue
+
+= RESTART: C:\Users\megha\OneDrive\Documents\School\23SP\CIS108\Homework\Project5\project5.py
+Enter Name: Joe
+Enter Number of Days Stayed: 1
+Enter Room Number: 101
+Did you use the internet? : n
+Did you watch television? : n
+
+
+
+			PCCC Palace Hotel
+
+Joe's Billing Statement			Invoice#: 539
+
+	Number of Days in Hotel: 1	in a Single Room
+
+	Room Charges				$225.00      
+
+	Internet Charges		None		$0.00        
+
+	Television Charges	None		$0.00        
+
+	Total Charges				$225.00      
+
+	Local Taxes					$7.88        
+
+		Total Due		$232.88      
+
+
+	Thank you for visiting PCCC Palace Hotel!
+		Hope to see you again!
+
+
+Press Enter to Continue
+
+= RESTART: C:\Users\megha\OneDrive\Documents\School\23SP\CIS108\Homework\Project5\project5.py
+Enter Name: Jen
+Enter Number of Days Stayed: 4
+Enter Room Number: 323
+Did you use the internet? : y
+
+		Internet Access Usage
+		---------------------
+		1--(W)iFi Connection
+		2--(w)ired Connection
+	Enter Choice: 2
+Did you watch television? : y
+
+		TV Usage
+		---------------------
+		1--(C)able Channels
+		2--(B)asic Channels
+	Enter Choice: 2
+
+
+
+			PCCC Palace Hotel
+
+Jen's Billing Statement			Invoice#: 418
+
+	Number of Days in Hotel: 4	in a Suite
+
+	Room Charges				$2,200.00    
+
+	Internet Charges		Wired		$23.80       
+
+	Television Charges	Basic		$11.80       
+
+	Total Charges				$2,235.60    
+
+	Local Taxes					$78.25       
+
+		Total Due		$2,313.85    
+
+
+	Thank you for visiting PCCC Palace Hotel!
+		Hope to see you again!
+
+
+Press Enter to Continue

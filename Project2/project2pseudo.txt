@@ -1,0 +1,36 @@
+1 start
+2 define cost per credit (float)
+3 define general college cost per credit (float)
+4 define student activity fee per credit (float)
+5 define athletic fees per credit (float)
+6 define technology fee per credit (float)
+7 define registration fee per semester (float)
+8 import random
+9 input student name
+10 input student id # (int)
+11 input # of credits (float)
+12 calculate credit charges (float)
+	(# of credits * cost per credit)
+13 calculate general college fees (float)
+	(# of credits * general cost per credit)
+14 calculate student activity fees (float)
+	(# of credits * student activity fee per credit)
+15 calculate athletic fees (float)
+	(# of credits * athletic fees per credit)
+16 calculate technology fees (float)
+	(# of credits * technology fee per credit)
+17 calculate total charges for semester (float)
+	(credit charges + general college fees + student activity fees + athletic fees + technology fees + registration fee)
+18 print "Passaic County Community College"
+19 print "Name: ", "ID#: ", "Invoice #: "
+	(random # generator between 1000 and 10000 for invoice#)
+20 print "Number of Credits: ", "Cost per Credit: "
+21 print "Credit Charges: "
+22 print "General College Fees: "
+23 print "Student Activity Fees: "
+24 print "Athletic Fees: "
+25 print "Technology Fees: "
+26 print "Registration Fee: "
+27 print "Total Charges for Semester: "
+28 print name, ", Enjoy Your Semester!"
+29 end

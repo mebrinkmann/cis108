@@ -1,0 +1,10 @@
+= RESTART: C:\Users\Meghan Brinkmann\OneDrive\Documents\Programming Fundamentals\Homework\Project1.py
+What is your name? Ariana Lynch
+What is the length of the side? 9.6
+
+Hello Ariana Lynch
+The area of the hexagon with
+Side = 9.6
+Is = 239.44
+
+Press Enter to Continue
